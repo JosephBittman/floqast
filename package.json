@@ -1,0 +1,17 @@
+{
+  "name": "floqast_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "cucumber": "5.1.0",
+    "cucumber-pretty": "1.5.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "protractor": "^5",
+    "protractor-cucumber-framework": "6.1.2",
+    "request-promise-native": "^1.0.7"
+  }
+}
