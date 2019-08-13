@@ -1,5 +1,6 @@
 module.exports = new function () {
   this.getContactUsSubmissionByEmail = async (businessEmail) => {
+    // mocked; normally this would pull from the db
     return {
       firstName: 'first name',
       lastName: 'last name',
